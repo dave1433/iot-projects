@@ -1,0 +1,5 @@
+#define WIFI_SSID "YOUR_WIFI_SSID"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+
+#define MQTT_TOKEN "FlespiToken ikYVsz8cqHJusle4b2r6EjXKTmbx7ev7yQXedNLt308MH9ZpoQQ7po7JIkFthugL"
+#define MQTT_TOPIC "iot-course/rauchu01/sensor"

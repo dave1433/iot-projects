@@ -1,0 +1,17 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+lib/deps
+*.bin
+*.elf
+
+# VS Code
+.vscode/
+
+# Sensitive Configuration (WiFi/MQTT credentials)
+**/config.h
+
+# OS generated files
+.DS_Store
+Thumbs.db
